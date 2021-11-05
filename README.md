@@ -2,8 +2,8 @@ hi im doing this format cause im unoriginal lmao
 
 
 - hello im @SaladHat
-- i code in python and eventually Java
-- im still learning python somewhat
+- i code in python
+- im attempting to learn advanced python
 - uhhh if you want to reach me, idk @ me on twitter @Salad_Hats
 
 <!---
