@@ -1,10 +1,7 @@
-hi im doing this format cause im unoriginal lmao
-
-
-- hello im @SaladHat
-- i code in python
-- im attempting to learn advanced python
-- uhhh if you want to reach me, idk @ me on twitter @Salad_Hats
+ Welcome to my readme.
+ 
+- hello i'm @SaladHat
+- If you'd like to reach me, @saladhatt on twitter
 
 <!---
 SaladHat/SaladHat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
